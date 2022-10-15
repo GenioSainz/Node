@@ -1,8 +1,10 @@
 
 
 const getUsuarioSync = ( id ) => {
+    
     const startPoint = new Date().getTime();
     while (new Date().getTime() - startPoint <= 3000 ) {
+
         // Esperando...
         // Haciendo fetch de base de datos...
         // Robando datos de facebook...
