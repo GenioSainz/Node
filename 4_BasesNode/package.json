@@ -1,0 +1,19 @@
+{
+  "name": "4_basesnode",
+  "version": "1.0.0",
+  "description": "Generate Random Keys",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "key_7": "node app2 --n=7"
+  },
+  "author": "Eugenio Sainz Ortiz",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
