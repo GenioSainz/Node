@@ -7,5 +7,28 @@
 
 -[Node w3schools](https://www.w3schools.com/nodejs/)
 
+```
+APP1
 
+Opciones:
+      --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -n, --n_keys   Length of the Key                                      [número]
+  -l, --listar   Display or not Key in your terminal
+                                          [booleano] [requerido] [defecto: true]
 
+La base tiene que ser un numero
+
+RANDOM KEYS
+======================================
+
+KEY_1: x?27>du%3x¿6o%39*b5¿xy¿97*ej%63&rd^5y¿73^ek&4x@23?c2<fl¿19%hd$9
+KEY_2: 6=ox^55=bg*14?n4*xy€43>pr^2o@31&hj^7o=87¿d6#d5€z5€l6%b8@a6$eo%7
+KEY_3: 6%b5$ug¿38=qw^99<l6?v9*v6¿k9^y2?r9€h5%x6€fh€5a@1d$5y>5n@63¿ij=7
+KEY_4: u#9d$6f€79*c2>ku%71¿h8€l6¿f6<p1@r4^j5=gq=49^q1<p2%b9%g4?gw%3g&4
+KEY_5: y%2y>49€e6>k9>k1@c4=c2#f7?aa€1i?18€h3#do>31*w8&h8¿mn*7u*93*r4^m
+
+Time: 0.022 s
+app2_randomKeys.txt creado
+
+```
