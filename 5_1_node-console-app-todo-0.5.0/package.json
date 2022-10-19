@@ -1,5 +1,5 @@
 {
-  "name": "5_tareasconsola",
+  "name": "04-tareas-hacer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,6 @@
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^7.3.3",
-    "uuid": "^9.0.0"
+    "uuid": "^8.3.2"
   }
 }

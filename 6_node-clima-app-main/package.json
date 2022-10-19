@@ -1,0 +1,19 @@
+{
+  "name": "05-clima-app",
+  "version": "1.0.0",
+  "description": "Recuerden reconstruir los módulos de node con el comando ```npm init```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {}
+}

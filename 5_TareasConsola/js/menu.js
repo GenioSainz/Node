@@ -5,10 +5,9 @@ const createMenu = ()=>{
 
     return new Promise (resolve => {
             console.clear()
-            console.log(`Program start: ${new Date()}`.blue);
-            console.log('==============='.green)
-            console.log(' Select Option '.green)
-            console.log('===============\n'.green)
+            console.log('===================================================================================================='.green)
+            console.log(`${'SELECT OPTION'.green} ${` Program start: ${new Date()}`.red}`)
+            console.log('====================================================================================================\n'.green)
             console.log(`${'1.'.green} Create Task`)
             console.log(`${'2.'.green} List Tasks`)
             console.log(`${'3.'.green} List Complete Tasks`)
